@@ -143,3 +143,12 @@ def test_my_source_parse():
 ```
 
 That's it. Ship a vertical in ~30 lines.
+
+### PyPI
+
+- **Source name:** `pypi`
+- **Kind:** People
+- **Vertical:** Python package maintainers
+- **Description:** Discovers maintainers of Python packages published on PyPI.
+- **API:** Public PyPI JSON API; no API key required.
+- **Data:** Package name, maintainer name, public email (when available), and project website.
